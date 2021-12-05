@@ -23,3 +23,5 @@ It seems that Quick Sort is the supreme one in terms of speed
 - 5.873 times faster than Bubble Sort
 - 3.627 times faster than Insertion Sort
 - almost 2.5 times faster than Merge Sort
+
+However we should always take into account it's space complexity and lack of stability
