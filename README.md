@@ -18,7 +18,8 @@ This is a project that tests 4 basic sorting algorithms in python on RANDOM arra
 ## These are my results:
 
 ![algorithm_second_tests](https://user-images.githubusercontent.com/65974766/144761486-0187a7a6-80cd-4b34-8b23-5ab93b2d76d0.jpg)
-<br>
+
+
 Wow quick sort algorithm sorted an array of 100.000 numbers is less that 0.7 seconds
 <br>
 It is evident that Quick Sort is the supreme one in terms of speed
