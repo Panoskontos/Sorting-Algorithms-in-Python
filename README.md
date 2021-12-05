@@ -20,3 +20,6 @@ This is a project that tests 4 basic sorting algorithms in python on RANDOM arra
 Wow quick sort algorithm sorted an array of 100.000 numbers is less that 0.7 seconds
 
 It seems that Quick Sort is the supreme one in terms of speed
+- 5.873 times faster than Bubble Sort
+- 3.627 times faster than Insertion Sort
+- almost 2.5 times faster than Merge Sort
