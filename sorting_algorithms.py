@@ -118,7 +118,7 @@ def create_array(size):
     return randnums
 
 
-# test our 3 sorting techniques
+# test our 4 sorting techniques
 def benchmark():
     from time import time
     bubble_times = []
@@ -162,7 +162,7 @@ def benchmark():
     print("\n")
 
 
-# testing our algorithms
+# ignore this! it was in order to test testing our algorithms
 # arr = [12, 11, 13, 5, 6, 7]
 # print("Given array is", end="\n")
 # printList(arr)
